@@ -36,6 +36,10 @@ A custom server allows you to manage the data of all registered users yourself a
 
 ## Deploying the App
 
+Click the button below to deploy your server to the DigitalOcean App Platform:
+
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/getferdi/server/tree/master&refcode=5292301af793)
+
 <details>
 <summary>Setup with Docker</summary>
 The easiest way to set up Ferdi-server on your server is with Docker.
