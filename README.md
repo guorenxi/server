@@ -5,7 +5,7 @@
 # Server
 
 <p>
-  <a href="https://github.com/getferdi/server/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/server/actions/workflows/builds.yml/badge.svg?branch=master&event=push"></a>
+  <a href="https://github.com/getferdi/server/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/server/actions/workflows/builds.yml/badge.svg"></a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href='#contributors-'><img src='https://img.shields.io/badge/contributors-4-default.svg?logo=github' alt='Contributors'/></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
